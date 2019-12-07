@@ -19,7 +19,7 @@
  <h1>Register here!</h1>
  <p>Fill in your name and email address, then click <strong>Submit</strong> to register.</p>
  <form method="post" action="index.php" enctype="multipart/form-data" >
-      <table border="0" style="center; color:#FF0000">
+      <table border="0" style="center; >
        <tr>
     <td>Name </td>
     <td>:</td>
