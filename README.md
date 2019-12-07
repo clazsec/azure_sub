@@ -1,2 +1,2 @@
-# a83-macd-labs
-Source code untuk kelas Azure
+# azure_sub
+Source code untuk submission kelas Azure
